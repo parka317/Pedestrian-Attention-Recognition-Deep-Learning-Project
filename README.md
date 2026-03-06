@@ -12,10 +12,8 @@ Built in **PyTorch** (trained on **Google Colab**) with a focus on **high recall
 - Balanced ~**25k** training images sampled from **Gaze360** to mitigate class skew
 
 ## 🔗 Project Resources
-
-📄 [Final Report](./docs/final_report.pdf)  
+  
 📓 [Notebook](notebook/final_training.ipynb)
-
 
 ---
 
@@ -73,7 +71,6 @@ Built in **PyTorch** (trained on **Google Colab**) with a focus on **high recall
 - We selected the final architecture because it **recalls distracted pedestrians better** than alternatives with slightly higher accuracy—aligning with safety priorities.
 
 **What I got out of the experience**
-- Developed my skills in python, its wide selection of libraries (PyTorch, NumPy, Pandas, MatPlot Lib) and coding logic in general.
-- Worked and split up a coding project with teammates I have never met in person successfully.
+- Developed my skills in python, its wide selection of libraries (PyTorch, NumPy, Pandas, MatPlot Lib).
 - Learned about model architecture, data preprocessing, fine tuning and presentation of ideas.
 - Machine learning architectures are a significant component of Robotics as it provides tools to understand concepts such as computer vision.
